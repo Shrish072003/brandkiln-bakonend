@@ -1,6 +1,6 @@
 {
   "name": "client",
-  "proxy": "http://brandkiln.com:9000",
+  "proxy": "http://213.210.21.48:9000",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
