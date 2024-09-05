@@ -2,8 +2,8 @@
   "name": "client",
   "options": {
     "allowedHosts": [
-      "localhost",
-      ".localhost"
+      "213.210.21.48",
+      ".213.210.21.48"
     ],
     "proxy": "http://213.210.21.48:9000/"
   },
